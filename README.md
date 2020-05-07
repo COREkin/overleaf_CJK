@@ -3,7 +3,7 @@
 
 Please set up with XeLaTeX
 
-Just copy packages at %You can apply another font and %Please compile with XeLaTeX to your project
+Just copy packages under "%You can apply another font" and "%Please compile with XeLaTeX" to your project
 
 Fonts from https://www.google.com/get/noto/
 
